@@ -1,0 +1,11 @@
+ksudoku: ksudoku (A Sudoku game for KDE)
+ksudoku:
+ksudoku: ksudoku is a fully-featured Sudoku puzzle generator and solver
+ksudoku: for KDE. With it you can generate and play 3D and 2D puzzles of
+ksudoku: different sizes and levels. The main algorithm is fast and
+ksudoku: extendable to any general graph coloring problem.
+ksudoku:
+ksudoku:
+ksudoku:
+ksudoku:
+ksudoku: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
